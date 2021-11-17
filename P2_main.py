@@ -146,3 +146,4 @@ query()
 tela_login.mainloop()
 
 
+#teste conectividade com heroko
