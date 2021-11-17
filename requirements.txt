@@ -1,0 +1,15 @@
+biopython
+certifi
+charset-normalizer
+idna
+numpy
+pip
+psycopg2
+pymprog
+pyprog
+requests
+setuptools
+style
+swiglpk
+update
+urllib3
