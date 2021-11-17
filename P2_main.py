@@ -2,10 +2,21 @@ from tkinter import *
 import psycopg2
 import os
 
+#stormy-depths-55799
+
 origin_path = os.path.abspath(os.getcwd())
 
 print()
 
+#configurando o postgres
+def query():
+    conn = psycopg2.connect(
+        host = "ec2-52-45-179-101.compute-1.amazonaws.com",
+        database = "dfteps5p12sa4o",
+        user = "wtzpfamewvjhdo",
+        password = "96baea9a68a850dde879d7133b9e648620b8521adb6910870391b15e40da7b8c",
+        port = "5432",
+    )
 
 tela_login = Tk()
 
