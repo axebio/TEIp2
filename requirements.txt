@@ -13,4 +13,4 @@ style==1.1.0
 swiglpk==5.0.3
 update==0.0.1
 urllib3==1.26.6
-flak==2.0.2
+flask==2.0.2
