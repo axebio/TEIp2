@@ -1,12 +1,8 @@
-biopython==1.79       
 certifi==2021.5.30  
-charset-normalizer==2.0.4      
-idna==3.2        
+charset-normalizer==2.0.4           
 numpy==1.21.2
 pip==21.2.4
 psycopg2==2.9.2
-pymprog==1.1.2
-pyprog==1.1.0.post2
 requests==2.26.0
 setuptools==56.0.0
 style==1.1.0
