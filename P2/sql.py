@@ -1,5 +1,4 @@
 import psycopg2
-from .reg_user import *
 
 
 def connect():
